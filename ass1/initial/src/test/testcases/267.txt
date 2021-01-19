@@ -1,0 +1,6 @@
+
+Function: main
+    Body:
+        For (a, a < 9, 101) Do
+        EndFor.
+    EndBody.

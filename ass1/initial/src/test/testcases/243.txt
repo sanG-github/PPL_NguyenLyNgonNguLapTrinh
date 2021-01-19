@@ -1,0 +1,8 @@
+
+Function: main
+    Body:
+        If True Then
+        ElseIf a Then
+        ElseIf b Then
+        EndIf.
+    EndBody.

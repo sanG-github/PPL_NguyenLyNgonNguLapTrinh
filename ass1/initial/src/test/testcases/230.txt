@@ -1,0 +1,6 @@
+
+Function: main
+    Parameter:
+    Body:
+        Var: x = 10100;
+    EndBody.

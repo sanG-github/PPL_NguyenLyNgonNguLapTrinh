@@ -1,1 +1,1 @@
- "abc\h def"  
+ ** Unterminated Comment 

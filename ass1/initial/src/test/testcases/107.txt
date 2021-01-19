@@ -1,1 +1,1 @@
- "ab'"c\n def"  
+ ** \f\n skip comment esc ** hello

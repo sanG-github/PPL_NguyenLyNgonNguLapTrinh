@@ -1,0 +1,8 @@
+
+Function: main
+    Body:
+        Return 1;
+        Return 1;
+        Return 1;
+        Return 1;
+    EndBody.

@@ -1,0 +1,6 @@
+
+Function: main
+    Body:
+        For (Var: a = 1, a < 29, 1021) Do
+        EndFor.
+    EndBody.
